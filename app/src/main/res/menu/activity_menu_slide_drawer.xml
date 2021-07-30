@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/menu_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Inicio" />
+        <item
+            android:id="@+id/nav_perfil"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="Mi perfil" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/ic_settings_black_dp"
+            android:title="Ajustes" />
+    </group>
+
+    <group
+        android:id="@+id/menu_bottom"
+        android:checkableBehavior="none">
+
+
+        <item
+            android:id="@+id/nav_reserva"
+            android:icon="@drawable/ic_add_black_24dp"
+            android:title="Reserva online" />
+        <item
+            android:id="@+id/nav_reservas"
+            android:icon="@drawable/ic_format_list_bulleted_black_24dp"
+            android:title="Mis reservas" />
+
+
+        <item
+            android:id="@+id/cerrar_sesion"
+            android:icon="@drawable/ic_power_settings_new_black_24dp"
+            android:title="Cerrar sesión" />
+    </group>
+
+
+</menu>

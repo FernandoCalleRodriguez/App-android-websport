@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sport Administration</string>
+    <string name="email">Email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Iniciarsesion">Iniciar sesión</string>
+    <string name="Registrar">Registrar</string>
+    <!--Calendario-->
+    <string name="titlulo_pickers">Choose date and type of pist:</string>
+    <string name="formato_fecha">yyyy/mm/dd</string>
+    <string name="formato_hora">hh:mm</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_opciones">OpcionesActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="pref_title_add_friends_to_messages">Choose language</string>
+
+</resources>

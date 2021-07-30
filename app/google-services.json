@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "419662862868",
+    "firebase_url": "https://sport-administration.firebaseio.com",
+    "project_id": "sport-administration",
+    "storage_bucket": "sport-administration.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419662862868:android:0f8b1c3650c923b6",
+        "android_client_info": {
+          "package_name": "com.example.ferky.tfg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419662862868-kjcb9gqf2mameceikodrki3p7trpsf7b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ferky.tfg",
+            "certificate_hash": "6893f1ccfa91c4da5ec3a1e0d0562ef852f1adbe"
+          }
+        },
+        {
+          "client_id": "419662862868-0f0dkdvuq75eg61cf1jqoqssbmm7fdqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDErEo68uIlDOd0PtCr8vSiFH6SJiL5ylg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419662862868-0f0dkdvuq75eg61cf1jqoqssbmm7fdqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

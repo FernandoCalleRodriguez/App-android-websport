@@ -1,0 +1,105 @@
+<resources>
+    <!-- SPLASH SCREEN -->
+
+    <!-- LOGIN -->
+    <string name="inicio_sesion">Inicio de sesión</string>
+    <string name="direccion_email">Dirección de email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Iniciar_sesion">Iniciar sesión</string>
+    <string name="ir_registro">¿Nuevo? Crear una cuenta</string>
+
+    <!-- REGISTRO -->
+    <string name="registro">Registro</string>
+    <string name="nombre_usu">Nombre</string>
+    <string name="apellidos_usu">Apellidos</string>
+    <string name="telefono_usu">Nº de telefono</string>
+    <string name="crear_usu">Crear usuario</string>
+    <string name="ir_login">¿Tienes cuenta ya? Inicia sesión</string>
+
+
+    <!-- MAIN -->
+
+    <!-- DETALLES PISTA -->
+        <string name="info_pista">Información de la Pista:</string>
+    <string name="precio_pista">Precio por reserva minima:</string>
+        <!-- DETALLES RESERVA -->
+        <string name="info_reserva">Información de la Reserva:</string>
+        <string name="dt_pista">Pista</string>
+        <string name="dt_dia">Día</string>
+        <string name="dt_hora">Hora</string>
+        <string name="dt_duracion">Duración</string>
+        <string name="dt_usuario">Usuario</string>
+        <string name="dt_precio">Precio</string>
+        <string name="cancelar_reserva">Cancelar Reserva</string>
+
+    <string name="reservar">Reservar</string>
+    <string name="finalizar_reserva">Finalizar Reserva</string>
+
+        <!-- PERFIL-->
+        <string name="titulo_perfil">Mis datos personales</string>
+        <string name="nombre_pf">Nombre:</string>
+        <string name="apellidos_pf">Apellidos:</string>
+        <string name="telefono_pf">Número de telefono:</string>
+        <string name="email_pf">Email:</string>
+        <string name="actualizar_pf">Actualizar</string>
+
+    <string name="buscar">Buscar</string>
+
+
+
+
+    <!-- AJUSTES -->
+
+    <!-- GESTOR -->
+
+    <!-- MANIFEST -->
+    <string name="app_name">Sport Administration</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello white fragment</string>
+    <string name="title_activity_menu_slide">SportAdministration</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Bienvenid@</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <!--Calendario-->
+    <string name="titlulo_pickers">Elegir fecha y Tipo de pista:</string>
+    <string name="formato_fecha">yyyy/mm/dd</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+
+    <string name="pref_title_social_recommendations">Datos necesarios para el uso de \n\n Sport Administration</string>
+    <string name="pref_description_social_recommendations">Sport Administration recopia datos necesarios para el uso de la aplicación, como puede ser herramientas de analítica y estadisticas de uso.
+    </string>
+
+    <string name="pref_title_add_friends_to_messages">Elegir idioma</string>
+
+    <!-- Example settings for Data & Sync -->
+
+    <!-- Example settings for Notifications -->
+
+    <string name="title_activity_gestor">GestorActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!--Fin CAlendario-->
+</resources>
